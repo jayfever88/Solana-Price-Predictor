@@ -30,5 +30,5 @@ It’s novel because it combines multiple signals into a simple **autonomous tra
 ## ⚙️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/solana-predictor.git
+   git clone https://github.com/jayfever88/solana-predictor.git
    cd solana-predictor
